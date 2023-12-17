@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthewkurtti
+- 👋 Hi, I’m @matthewkurtti. I'm a computer science student at North Dakota State University
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java projects
