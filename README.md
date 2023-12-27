@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewkurtti. I'm a computer science student at North Dakota State University
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning css
 <!-- 💞️ I’m looking to collaborate on java projects-->
 - 📫 How to reach me matthew.b.kurtti@gmail.com
 
