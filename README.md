@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @matthewkurtti. I'm a student at Code Chrysalis
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m @matthewkurtti. I'm a full stack software engineer
+<!-- - 👀 I’m interested in sof
+<!-- - 🌱 I’m currently learning javascript
 <!-- 💞️ I’m looking to collaborate on java projects-->
 - 📫 How to reach me matthew.b.kurtti@gmail.com
 
