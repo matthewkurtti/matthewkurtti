@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthewkurtti. I'm a full stack software engineer
+- 👋 Hi, I’m Matt. I'm a full stack software engineer
 
 - 🏡 I'm originally from Fargo, ND in the U.S.A., but I currently live in Kumamoto, Japan
 
