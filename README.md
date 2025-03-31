@@ -2,7 +2,7 @@
 
 - I'm originally from Fargo, ND in the U.S.A., but I currently live in Kumamoto, Japan
 
-- 📫 How to reach me: Email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
+- 📫 Email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
 
 <!---
 matthewkurtti/matthewkurtti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
