@@ -7,7 +7,7 @@
       Languages: Typescript, Javascript, Java, Python <br>
       Frontend: React.js, HTML/CSS, Tailwind <br>
       Backend: Node.js, Express, PostgreSQL <br>
-
+<br>
 - 📫 Email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
 
 <!---
