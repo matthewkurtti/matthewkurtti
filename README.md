@@ -3,6 +3,7 @@
 - 🏡 I'm originally from Fargo, ND in the U.S.A., but I currently live in Kumamoto, Japan
 
 - 🖥️ My tech stack: <br>
+<br>
       Languages: Typescript, Javascript, Java, Python <br>
       Frontend: React.js, HTML/CSS, Tailwind <br>
       Backend: Node.js, Express, PostgreSQL <br>
