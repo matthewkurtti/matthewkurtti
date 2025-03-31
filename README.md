@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthewkurtti. I'm a full stack software engineer
-<!-- - 👀 I’m interested in sof
-<!-- - 🌱 I’m currently learning javascript
-<!-- 💞️ I’m looking to collaborate on java projects-->
+
+- I'm originally from Fargo, ND in the U.S.A., but I currently live in Kumamoto, Japan
+
 - 📫 How to reach me matthew.b.kurtti@gmail.com
 
 <!---
