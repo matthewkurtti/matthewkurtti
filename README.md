@@ -9,6 +9,7 @@
 
 - Email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
 
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <!---
 matthewkurtti/matthewkurtti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
