@@ -3,7 +3,7 @@
 - I'm originally from Fargo, ND in the U.S.A., but I currently live in Kumamoto, Japan
 
 - My tech stack: <br>
-      Languages: Typescript, Javascript, Java, Python <br>
+      Languages: <img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}" />, <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />, <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
       Frontend: React.js, Vue.js, HTML/CSS, Tailwind <br>
       Backend: Node.js, Express, PostgreSQL <br>
 
