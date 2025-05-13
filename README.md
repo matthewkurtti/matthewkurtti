@@ -8,7 +8,7 @@
      - Backend: ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
      - Database: ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
-- Email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
+- Check out my [personal website](personal-website-otow.onrender.com), email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
 
 <!---
 matthewkurtti/matthewkurtti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
