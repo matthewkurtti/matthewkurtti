@@ -3,7 +3,7 @@ I'm a full stack software engineer
 
 
 # 🏠 Where I'm from
-I'm from Fargo in the U.S.A. 🇺🇸, but I currently live in Kumamoto, Japan 🇯🇵
+I'm from Fargo in the U.S.A. 🗽, but I currently live in Kumamoto, Japan 🗾
 
 # 🌟 My interests
 
