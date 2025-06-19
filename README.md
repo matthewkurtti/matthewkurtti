@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Matt
-I'm a full stack software engineer
+### I'm a full stack software engineer
 
 
 # 🏠 Where I'm from
-I'm from Fargo in the U.S.A. 🗽, but I currently live in Kumamoto, Japan 🗾
+### I'm from Fargo in the U.S.A. 🗽, but I currently live in Kumamoto, Japan 🗾
 
 # 🌟 My interests
 
-When I'm not coding, my interests are running 🏃‍♂️, studying Japanese ㊗️, or playing videogames 🎮
+### When I'm not coding, my interests are running 🏃‍♂️, studying Japanese ㊗️, or playing videogames 🎮
 
-Code-wise, my current interests are with healthcare and healthy living projects. I'm actively contributing on [findadoc](https://github.com/ourjapanlife/findadoc-web). I've also made games and language study resources. Check out my projects below to learn more
+### Code-wise, my current interests are with healthcare and healthy living projects. I'm actively contributing on [findadoc](https://github.com/ourjapanlife/findadoc-web). I've also made games and language study resources. Check out my projects below to learn more
 
 # 🛠️ My tech stack: <br>
 **Languages**: ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
@@ -22,7 +22,7 @@ Code-wise, my current interests are with healthcare and healthy living projects.
 
 # 📲 Contact
 
-Check out my [personal website](https://personal-website-otow.onrender.com), email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
+### Check out my [personal website](https://personal-website-otow.onrender.com), email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
 
 <!---
 matthewkurtti/matthewkurtti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
