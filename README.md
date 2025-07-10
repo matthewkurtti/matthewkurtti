@@ -11,7 +11,7 @@ When I'm not coding, my interests are running 🏃‍♂️, studying Japanese �
 
 Code-wise, my interests are with healthcare, videogames, and language study. I'm actively contributing on [findadoc](https://github.com/ourjapanlife/findadoc-web). I've also made games and language study resources. Check out my projects below to learn more, and feel free to reach out if you'd like to collaborate!
 
-# 🛠️Teck Stack
+# 🛠️Tech Stack
 |<ins>**Tech Stack**</ins>| |
 |:---:|:---:|
 |**Languages** | ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | 
