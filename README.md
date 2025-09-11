@@ -9,7 +9,7 @@ I'm from Fargo in the U.S.A. 🗽, but I currently live in Kumamoto, Japan 🗾
 
 When I'm not coding, my interests are running 🏃‍♂️, studying Japanese ㊗️, or playing videogames 🎮
 
-Code-wise, my interests are with healthcare, videogames, and language study. I'm actively contributing on [findadoc](https://github.com/ourjapanlife/findadoc-web). I've also made games and language study resources. Check out my projects below to learn more, and feel free to reach out if you'd like to collaborate!
+Code-wise, my current interests are with healthcare. I'm actively contributing to [findadoc](https://github.com/ourjapanlife/findadoc-web). I've also made games and language study resources. Check out my projects below to learn more, and feel free to reach out if you'd like to collaborate!
 
 # 🛠️Tech Stack
 |<ins>**Tech Stack**</ins>| |
