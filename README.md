@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Matt
-I'm a software engineer
+I'm a software engineer at NekkoLabs
 
 
 # 🏠 Where I'm from
