@@ -7,7 +7,7 @@ I'm from Fargo in the U.S.A. 🇺🇸, but I currently live in Kumamoto, Japan �
 
 # 🌟 My interests
 
-When I'm not coding, my interests are running 🏃‍♂️, playing trumpet 🎺, or studying Japanese ㊗️
+When I'm not coding, my interests are playing trumpet 🎺, running 🏃‍♂️, or studying Japanese ㊗️
 
 Outside of work, an open source project I help with is [Find A Doc, Japan](https://www.findadoc.jp/). Their mission is to help foreigners in Japan have better access to healthcare professionals that speak their native language. Feel free to check out my other projects or reach out if you'd like to collaborate!
 
