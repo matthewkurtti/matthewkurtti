@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Matt
-I'm a software engineer @ [NekkoLabs](https://nekkolabs.com/)
+I'm a software engineer @ [Nekko Labs](https://nekkolabs.com/) and a moderator for the [Nekko Dojo](https://nekkodojo.com/) open source community
 
 
 # 🏠 Where I'm from
@@ -8,8 +8,6 @@ I'm from Fargo in the U.S.A. 🇺🇸, but I currently live in Kumamoto, Japan �
 # 🌟 My interests
 
 When I'm not coding, my interests are playing trumpet 🎺 or studying Japanese ㊗️
-
-Outside of work, an open source project I've helped with is [Find A Doc, Japan](https://www.findadoc.jp/). Their mission is to help foreigners in Japan have better access to healthcare professionals that speak their native language. Feel free to check out my other projects or reach out if you'd like to collaborate!
 
 # 🛠️Tech Stack
 |<ins>**Tech Stack**</ins>| |
