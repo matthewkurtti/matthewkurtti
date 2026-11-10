@@ -7,7 +7,9 @@ I'm from Fargo in the U.S.A. 🇺🇸, but I currently live in Kumamoto, Japan �
 
 # 🌟 My interests
 
-When I'm not coding, my interests are playing trumpet 🎺 or studying Japanese ㊗️
+When I'm not coding, my interests are: 
+- playing trumpet 🎺 
+- studying Japanese ㊗️
 
 # 🛠️Tech Stack
 |<ins>**Tech Stack**</ins>| |
