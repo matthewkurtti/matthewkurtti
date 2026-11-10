@@ -23,7 +23,7 @@ When I'm not coding, my interests are playing trumpet 🎺 or studying Japanese 
 
 # 📲 Contact
 
-Check out my [personal website](https://personal-website-otow.onrender.com), email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
+Email me at [matthew.b.kurtti@gmail.com](matthew.b.kurtti@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-kurtti-737ab2123/)
 
 <!---
 matthewkurtti/matthewkurtti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
