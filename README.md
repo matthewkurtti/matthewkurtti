@@ -1,13 +1,15 @@
 # 👋 Hi, I’m Matt
-I'm a software engineer @ [Nekko Labs](https://nekkolabs.com/) and a moderator for the [Nekko Dojo](https://nekkodojo.com/) open source community
+- I'm a software engineer @ [Nekko Labs](https://nekkolabs.com/)
+- I'm also a moderator for the [Nekko Dojo](https://nekkodojo.com/) open source community
 
 
 # 🏠 Where I'm from
-I'm from Fargo in the U.S.A. 🇺🇸, but I currently live in Kumamoto, Japan 🇯🇵
+- I'm from Fargo in the U.S.A. 🇺🇸
+- I currently live in Kumamoto, Japan 🇯🇵
 
 # 🌟 My interests
 
-When I'm not coding, my interests are: 
+When I'm not coding, my interests are:
 - playing trumpet 🎺 
 - studying Japanese ㊗️
 
